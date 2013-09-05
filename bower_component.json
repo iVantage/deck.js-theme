@@ -1,0 +1,9 @@
+{
+  "name": "ivantage-deck.js-theme",
+  "version": "0.1.0",
+  "main": "ivantage.css",
+  "ignore": [],
+  "dependencies": {},
+  "devDependencies": {}
+}
+
