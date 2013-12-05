@@ -59,3 +59,5 @@
     background: #eee; }
   .deck-container.deck-menu .deck-current, .no-touch .deck-container.deck-menu .slide:hover {
     background: #ddf; }
+  .deck-container ul ul, .deck-container ol ol {
+    margin-bottom: 0 !important; }
